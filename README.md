@@ -1,3 +1,7 @@
+# Introduction
+Simple MERN stack tuttorial practice https://www.youtube.com/watch?v=7CqJlxBYj-M&t=5700s
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
